@@ -9,8 +9,8 @@
 
 Репозиторий постепенно обновляется по мере продвижения курса. Здесь Вы можете найти:
 
-- [Домашние задания](/sh-alg-2025-spring/home_assignmemts/)
-- [Материалы лекций](/sh-alg-2025-spring/lectures/)
+- [Домашние задания](/home_assignmemts/)
+- [Материалы лекций](/lectures/)
 
 Кроме того, у данного курса есть:
 
@@ -21,7 +21,7 @@
 ## Программа курса
 
 |                      Тема занятия                      |  Дата проведения | Конспект лекции | Код лекции | Домашнее задание |  Дедлайн  |
-|:------------------------------------------------------:|:----------------:|:---------------:|:----------:|:----------------:|:---------:|
-| Введение. Понятие асимптотической сложности алгоритма. |    06.01.2025    | [intro_complexities](/sh-alg-2025-spring/lectures/lec_1_06.01.25_intro_complexities/alg_sh_06.01.24_notes_intro_complexities.pdf) | - | [homework 1](/sh-alg-2025-spring/home_assignments//hw_1_06.01.25_12.01.25/algsh2025hw1.pdf) | 12.01.2025 |
-|       Поиск максимума в массиве.                        |    13.01.2025    | [max_extraction](/sh-alg-2025-spring/lectures/lec_2_13.01.25_max_extraction/alg_sh_13.01.25_notes_max_extraction.pdf)         | [max_extraction](/sh-alg-2025-spring/lectures/lec_2_13.01.25_max_extraction/alg_sh_13.01.25_seminar_max_extraction.ipynb) | [homework 2](/sh-alg-2025-spring//home_assignments/hw_2_13.01.25_26.01.25/algsh_hw2_13.01.25_26.01.25.ipynb) | 26.01.2025 |
+|------------------------------------------------------|:----------------:|:---------------:|:----------:|:----------------:|:---------:|
+| Введение. Понятие асимптотической сложности алгоритма. |    06.01.2025    | [intro_complexities](/lectures/lec_1_06.01.25_intro_complexities/alg_sh_06.01.24_notes_intro_complexities.pdf) | - | [homework 1](/home_assignments//hw_1_06.01.25_12.01.25/algsh2025hw1.pdf) | 12.01.2025 |
+|       Поиск максимума в массиве.                        |    13.01.2025    | [max_extraction](/lectures/lec_2_13.01.25_max_extraction/alg_sh_13.01.25_notes_max_extraction.pdf)         | [max_extraction](/lectures/lec_2_13.01.25_max_extraction/alg_sh_13.01.25_seminar_max_extraction.ipynb) | [homework 2](/home_assignments/hw_2_13.01.25_26.01.25/algsh_hw2_13.01.25_26.01.25.ipynb) | 26.01.2025 |
 |              |                 |                 |            |                  |
