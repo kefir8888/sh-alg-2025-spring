@@ -29,7 +29,7 @@
 
 ## Программа курса
 
-|                      Тема занятия                      |  Дата занятия | Конспект | Код | Домашнее задание |  Дедлайн  |
+|                      Тема занятия                      |  Дата занятия | Конспект | Код | <div style="width:90px">Домашнее задание</div> |  Дедлайн  |
 |------------------------------------------------------|:----------------:|:---------------:|:----------:|:----------------:|:---------:|
 | Введение. Понятие асимптотической сложности алгоритма. |    06.01.2025    | [lecture 1](/lectures/01_intro_complexities/alg_sh_06.01.24_notes_intro_complexities.pdf) | - | [assignment 1](/home_assignments/ha01/algsh2025hw1.pdf) | 12.01.2025 |
 |       Поиск максимума в массиве.                        |    13.01.2025    | [lecture 2](/lectures/02_max_extraction/alg_sh_13.01.25_notes_max_extraction.pdf)         | [code](/lectures/02_max_extraction/alg_sh_13.01.25_seminar_max_extraction.ipynb) | [assignment 2](/home_assignments/ha02/algsh_hw2_13.01.25_26.01.25.ipynb) | 26.01.2025 |
