@@ -16,6 +16,7 @@
 
 - [Страница в Google Classroom](https://classroom.google.com/c/NzQzODkzNTExNDY3) - тут сдаются теоретические домашние задания
 - [Страница курса в SHAD HELPER](https://shadhelper.com/members/courses/course103207534397) - тут есть записи занятий
+- [Группа на codeforces](https://codeforces.com/group/Y4DNzgBYCr) - здесь проходят контесты
 
 ## Рекомендованная Литература
 
@@ -35,3 +36,4 @@
 |       Поиск максимума в массиве.                        |    13.01.2025    | [lecture](/lectures/02_max_extraction/alg_sh_13.01.25_notes_max_extraction.pdf)         | [code](/lectures/02_max_extraction/alg_sh_13.01.25_seminar_max_extraction.ipynb) | [assignment](/home_assignments/ha02/algsh_hw2_13.01.25_26.01.25.ipynb) | 26.01.2025 |
 | Рекурсия. Рекурсивные алгоритмы вычисления чисел Фибоначчи. Алгоритм быстрого возведения в степень. Вычисление чисел Фибоначчи при помощи быстрого возведения в степень. | 20.01.2025 | [lecture](/lectures/03_recursion_fibonacci/alg_sh_20.01.25_notes_recursion_fibonacci.pdf) | [code](/lectures/03_recursion_fibonacci/alg_sh_20.01.25_recursion_fibonacci.ipynb) | [assignment](/home_assignments/ha03/algsh_hw3_20.01.25_26.01.25.ipynb) | 26.01.2025 |
 | Алгоритмы поиска в массиве. Линейный поиск. Бинарный поиск. | 27.01.2025 | [lecture](/lectures/04_bin_search_cows/alg_sh_27.01.25_bin_search_cows.pdf) | [code](/lectures/04_bin_search_cows/alg_sh_27.01.25_bin_search_cows.ipynb) | [assignment](/home_assignments/ha04/algsh_hw4_27.01.25_09.02.25.ipynb) |  09.02.2025 |
+| Метод двух указателей. Асимптотическая оценка сложности рекурсивных алгоритмов. Мастер-теорема. | 03.02.2025 | [lecture](/lectures/05_two_pointers_master_theorem/alg_sh_03.02.25_two_pointers.pdf) | [code](/lectures/05_two_pointers_master_theorem/alg_sh_03.02.25_two_pointers.ipynb) | [assignment](/home_assignments/ha05/algsh_hw5_03.02.25_09.02.25.pdf) | 09.02.2025 |
