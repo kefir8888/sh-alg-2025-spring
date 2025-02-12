@@ -11,6 +11,7 @@
 
 - [Домашние задания](/home_assignments/)
 - [Материалы лекций](/lectures/)
+- [Материалы дополнительных занятий](/lectures/extra/)
 
 Кроме того, у данного курса есть:
 
@@ -30,6 +31,8 @@
 
 ## Программа курса
 
+Здесь символом '*' помечены необязательные элементы курса
+
 |                      Тема занятия                      |  Дата занятия | Конспект | Код | Домашнее задание |  Дедлайн  |
 |------------------------------------------------------|:----------------:|:---------------:|:----------:|:----------------:|:---------:|
 | Введение. Понятие асимптотической сложности алгоритма. |    06.01.2025    | [lecture](/lectures/01_intro_complexities/alg_sh_06.01.24_notes_intro_complexities.pdf) | - | [assignment](/home_assignments/ha01/algsh2025hw1.pdf) | 12.01.2025 |
@@ -37,3 +40,4 @@
 | Рекурсия. Рекурсивные алгоритмы вычисления чисел Фибоначчи. Алгоритм быстрого возведения в степень. Вычисление чисел Фибоначчи при помощи быстрого возведения в степень. | 20.01.2025 | [lecture](/lectures/03_recursion_fibonacci/alg_sh_20.01.25_notes_recursion_fibonacci.pdf) | [code](/lectures/03_recursion_fibonacci/alg_sh_20.01.25_recursion_fibonacci.ipynb) | [assignment](/home_assignments/ha03/algsh_hw3_20.01.25_26.01.25.ipynb) | 26.01.2025 |
 | Алгоритмы поиска в массиве. Линейный поиск. Бинарный поиск. | 27.01.2025 | [lecture](/lectures/04_bin_search_cows/alg_sh_27.01.25_bin_search_cows.pdf) | [code](/lectures/04_bin_search_cows/alg_sh_27.01.25_bin_search_cows.ipynb) | [assignment](/home_assignments/ha04/algsh_hw4_27.01.25_09.02.25.ipynb) |  09.02.2025 |
 | Метод двух указателей. Асимптотическая оценка сложности рекурсивных алгоритмов. Мастер-теорема. | 03.02.2025 | [lecture](/lectures/05_two_pointers_master_theorem/alg_sh_03.02.25_two_pointers.pdf) | [code](/lectures/05_two_pointers_master_theorem/alg_sh_03.02.25_two_pointers.ipynb) | [assignment](/home_assignments/ha05/algsh_hw5_03.02.25_09.02.25.pdf) </br> [contest](https://codeforces.com/group/Y4DNzgBYCr/contest/585569) | 09.02.2025 </br> 16.02.2025 |
+| *Матрицы. Матричное умножение. Классы в Python3. | 08.02.2025 | - | [code](/sh-alg-2025-spring/lectures/extra/01_matrix_multiplication_classes/sem_matrix_multiplication_classes.ipynb) | *[assignment](/sh-alg-2025-spring/home_assignments/extra/ha01/algsh_extra_ha01_2025.txt) | - |
