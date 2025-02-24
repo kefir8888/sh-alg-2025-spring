@@ -1,0 +1,54 @@
+\documentclass{article}
+\usepackage[T2A]{fontenc}
+\usepackage[utf8]{inputenc}   
+\usepackage[english, russian]{babel}
+
+% Set page size and margins
+% Replace `letterpaper' with`a4paper' for UK/EU standard size
+\usepackage[a4paper,top=2cm,bottom=2cm,left=2cm,right=2cm,marginparwidth=1.75cm]{geometry}
+
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage[colorlinks=true, allcolors=blue]{hyperref}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+% \usepackage[left=1cm,right=1cm,top=1cm,bottom=1cm]{geometry}
+\usepackage{hyperref}
+\usepackage{seqsplit}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{enumitem}
+\usepackage{algorithm}
+\usepackage{algpseudocode}
+\usepackage{algorithmicx}
+\usepackage{mathalfa}
+\usepackage{mathrsfs}
+\usepackage{dsfont}
+\usepackage{caption,subcaption}
+\usepackage{wrapfig}
+\usepackage[stable]{footmisc}
+\usepackage{indentfirst}
+\usepackage{rotating}
+\usepackage{pdflscape}
+
+\usepackage{MnSymbol,wasysym}
+\usepackage{minted}
+
+\begin{document}
+
+\begin{center}
+\Large {Задание 2. Мастер-теорема.}
+\end{center}
+
+\bigskip
+
+\textbf{1} Найдите асимптотическую оценку функции $T(n)$. Примените мастер-теорему в тех случаях, когда ее можно использовать. В тех случаях, когда нельзя, найдите асимптотическую оценку иным способом.
+
+\begin{enumerate}
+    \item $T(n) = 25 T(\frac{n}{5}) + n^2$
+    \item $T(n) = 16 T(\frac{n}{2}) + n^3$
+    \item $T(n) = 9 T(\frac{n}{3}) + n^3$
+    \item $T(n) = T(n-1) + 3n$
+    \item $T(n) = T(\frac{n}{4}) + T(\frac{3n}{4}) + n$
+\end{enumerate}
+
+\end{document}

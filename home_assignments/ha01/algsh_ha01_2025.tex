@@ -1,0 +1,88 @@
+\documentclass{article}
+\usepackage[T2A]{fontenc}
+\usepackage[utf8]{inputenc}   
+\usepackage[english, russian]{babel}
+
+% Set page size and margins
+% Replace `letterpaper' with`a4paper' for UK/EU standard size
+\usepackage[a4paper,top=2cm,bottom=2cm,left=2cm,right=2cm,marginparwidth=1.75cm]{geometry}
+
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage[colorlinks=true, allcolors=blue]{hyperref}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+% \usepackage[left=1cm,right=1cm,top=1cm,bottom=1cm]{geometry}
+\usepackage{hyperref}
+\usepackage{seqsplit}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{enumitem}
+\usepackage{algorithm}
+\usepackage{algpseudocode}
+\usepackage{algorithmicx}
+\usepackage{mathalfa}
+\usepackage{mathrsfs}
+\usepackage{dsfont}
+\usepackage{caption,subcaption}
+\usepackage{wrapfig}
+\usepackage[stable]{footmisc}
+\usepackage{indentfirst}
+\usepackage{rotating}
+\usepackage{pdflscape}
+
+\usepackage{MnSymbol,wasysym}
+\usepackage{minted}
+
+\begin{document}
+
+\begin{center}
+\Large {Задание 1. Асимптотические сложности.}
+\end{center}
+
+\bigskip
+
+\textbf{1} Известно, что $f(n) = O(n^2),\ g(n) = \Omega(1),\ g(n) = O(n)$. Положим $$h(n) = \cfrac{f(n)}{g(n)}.$$ 
+
+1. Возможно ли, что \textbf{а)} $h(n) = \Theta(n\log n)$; \textbf{б)} $h(n) = \Theta(n^3)$?
+
+2. Приведите наилучшие (из возможных) верхние и нижние оценки на функцию $h(n)$ и приведите пример функций $f(n)$ и $g(n)$ для которых ваши оценки на $h(n)$ достигаются.
+
+\medskip
+
+\textbf{2} Найдите $\Theta$-асимптотику $\sum\limits_{i=1}^n \sqrt{i^3+2i+5}$.
+
+\medskip
+
+\textbf{3} Докажите, что асимптотика $\sum\limits^n_{i=1} i^{\alpha}
+= \Theta(n^{1+\alpha})$, если
+$\alpha > 0$.
+
+\medskip
+
+\textbf{4} Найдите $\Theta$-асимптотику функции
+$g(n) = \sum\limits^n_{k=1} \frac{1}{k};$
+
+\medskip
+
+\textbf{4} Найдите $\Theta$-асимптотику функции $f(n) = \sum\limits^n_{k=0} {n \choose k}$
+
+\medskip
+
+\textbf{5} Оцените асимптотически, сколько раз будет напечатана строка ''heh'' при вызове функции $\text{f}$.
+
+\begin{minted}{python}
+    def f(n):
+        for i = 1; i < n; i *= 2:
+            for j in range(i*i*i):
+                print("heh")
+
+        for i = 1; i < n; i += 2:
+            for j in range(i*i):
+                print("heh")
+\end{minted}
+
+\textbf{6} Оцените асимптотику роста функции $f(n) = 1 + c + c^2 + \dots + c^n$ в зависимости от параметра $c$.
+
+\medskip
+
+\end{document}
